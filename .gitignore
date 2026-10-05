@@ -1,0 +1,42 @@
+# ─── Compiled Java files ─────────────────────────────
+*.class
+
+# ─── Build / output folders ──────────────────────────
+bin/
+out/
+build/
+target/
+classes/
+
+# ─── Packaged files ──────────────────────────────────
+# (remove the *.jar line if a video needs you to commit a JAR)
+*.jar
+*.war
+*.ear
+
+# ─── Logs and crash files ────────────────────────────
+*.log
+hs_err_pid*
+replay_pid*
+
+# ─── VS Code ─────────────────────────────────────────
+# Keep shared settings, ignore personal/local files
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# ─── IntelliJ IDEA ───────────────────────────────────
+.idea/
+*.iml
+
+# ─── Eclipse ─────────────────────────────────────────
+.classpath
+.project
+.settings/
+
+# ─── Operating system files ──────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
