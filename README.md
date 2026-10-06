@@ -7,7 +7,7 @@
 **Source code for the video course by _ADC with Mounir_**
 
 [![Java](https://img.shields.io/badge/Java-SE%2017-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/17/)
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://tinyurl.com/PLAYLIST_LINK_HERE)
+[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://tinyurl.com/java17functionalprogramming)
 
 </div>
 
@@ -127,7 +127,7 @@ java StreamingPlatform.java
 
 | Resource | Link |
 |---|---|
-| 📃 Full Part 8 playlist | [tinyurl.com/PLAYLIST_LINK_HERE](https://tinyurl.com/PLAYLIST_LINK_HERE) |
+| 📃 Full Part 8 playlist | [tinyurl.com/PLAYLIST_LINK_HERE](https://tinyurl.com/java17functionalprogramming) |
 | 📃 Part 1 playlist (start here if you're new) | [tinyurl.com/java17fundamental](https://tinyurl.com/java17fundamental) |
 | 💻 Source code (this repo) | [github.com/adcwithmounir/Java17_Part_8_Functional_Programming](https://github.com/adcwithmounir/Java17_Part_8_Functional_Programming) |
 
