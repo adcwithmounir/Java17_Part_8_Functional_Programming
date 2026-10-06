@@ -38,7 +38,7 @@ All examples are built around a **streaming-platform project** (`Movie`, `Series
 | # | Folder | Video topic | What you'll learn | Status |
 |:-:|---|---|---|:-:|
 | 1 | [`Part_8_1_Functional_Programming`](./Part_8_1_Functional_Programming) | **Writing Your First Lambda** | From anonymous classes to lambdas, deferred execution, passing behavior as data | ✅ |
-| 2 | [`Part_8_2_Functional_Programming`](./Part_8_2_Functional_Programming) | **Lambda Syntax in Depth** | Parentheses, braces, `return`, parameter types, `var` in lambda parameters, valid vs invalid forms | 🔜 |
+| 2 | [`Part_8_2_Functional_Programming`](./Part_8_2_Functional_Programming) | **Lambda Syntax in Depth** | Parentheses, braces, `return`, parameter types, `var` in lambda parameters, valid vs invalid forms | ✅ |
 | 3 | [`Part_8_3_Functional_Programming`](./Part_8_3_Functional_Programming) | **Coding Functional Interfaces** | The single abstract method rule, `@FunctionalInterface`, `default` / `static` / `private` methods, `Object` methods that don't count | 🔜 |
 | 4 | [`Part_8_4_Functional_Programming`](./Part_8_4_Functional_Programming) | **Using Method References** | Static methods, instance methods on a particular object, instance methods on a parameter, constructor references | 🔜 |
 | 5 | [`Part_8_5_Functional_Programming`](./Part_8_5_Functional_Programming) | **Built-in Interfaces: Supplier, Consumer & Predicate** | `Supplier`, `Consumer`, `BiConsumer`, `Predicate`, `BiPredicate` from `java.util.function` | 🔜 |
