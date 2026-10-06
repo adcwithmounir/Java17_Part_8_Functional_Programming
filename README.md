@@ -127,7 +127,7 @@ java StreamingPlatform.java
 
 | Resource | Link |
 |---|---|
-| 📃 Full Part 8 playlist | [tinyurl.com/PLAYLIST_LINK_HERE](https://tinyurl.com/java17functionalprogramming) |
+| 📃 Full Part 8 playlist | [tinyurl.com/java17functionalprogramming](https://tinyurl.com/java17functionalprogramming) |
 | 📃 Part 1 playlist (start here if you're new) | [tinyurl.com/java17fundamental](https://tinyurl.com/java17fundamental) |
 | 💻 Source code (this repo) | [github.com/adcwithmounir/Java17_Part_8_Functional_Programming](https://github.com/adcwithmounir/Java17_Part_8_Functional_Programming) |
 
