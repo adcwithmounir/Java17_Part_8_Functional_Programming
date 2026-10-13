@@ -41,7 +41,7 @@ All examples are built around a **streaming-platform project** (`Movie`, `Series
 | 2 | [`Part_8_2_Functional_Programming`](./Part_8_2_Functional_Programming) | **Coding Functional Interfaces** | The single abstract method rule, `@FunctionalInterface`, `default` / `static` / `private` methods, `Object` methods that don't count | ✅ |
 | 3 | [`Part_8_3_Functional_Programming`](./Part_8_3_Functional_Programming) | **Using Method References** | Static methods, instance methods on a particular object, instance methods on a parameter, constructor references | ✅ |
 | 4 | [`Part_8_4_Functional_Programming`](./Part_8_4_Functional_Programming) | **Built-in Interfaces: Supplier, Consumer & Predicate** | `Supplier`, `Consumer`, `BiConsumer`, `Predicate`, `BiPredicate` from `java.util.function` | ✅ |
-| 5 | [`Part_8_5_Functional_Programming`](./Part_8_5_Functional_Programming) | **Variables in a Lambda** | Declaring lambda parameters three ways, creating variables inside a lambda body, and the rules for using variables that live outside it. | 🔜 |
+| 5 | [`Part_8_5_Functional_Programming`](./Part_8_5_Functional_Programming) | **Variables in a Lambda** | Declaring lambda parameters three ways, creating variables inside a lambda body, and the rules for using variables that live outside it. | ✅ |
 | 6 | NO LABS (see the video) | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | 🔜 |
 
 > ✅ Available · 🔜 Coming soon — the repo is updated as new videos are released.
