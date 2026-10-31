@@ -140,7 +140,7 @@ This repository is **Part 8** of a complete Java SE 17 course. Each part has its
 | 3 | Control Flow & Conditionals | 🔜 |
 | 4 | Essential Java Libraries | 🔜 |
 | 5 | Functions & Parameters | 🔜 |
-| 6 | Object-Oriented Basics | 🔜 |
+| 6 | [Object-Oriented Basics](https://github.com/adcwithmounir/Java17_Part_6_Object_Oriented_Basics) | 🚧 |
 | 7 | Interfaces & Abstract Types | 🔜 |
 | 8 | [Functional Programming](https://github.com/adcwithmounir/Java17_Part_8_Functional_Programming) | ✅ |
 | 9 | Data Structures & Type Safety | 🔜 |
@@ -150,6 +150,8 @@ This repository is **Part 8** of a complete Java SE 17 course. Each part has its
 | 13 | Multithreading & Parallelism | 🔜 |
 | 14 | File & Stream Operations | 🔜 |
 | 15 | Database Connectivity | 🔜 |
+
+> ✅ Available · 🚧 In progress · 🔜 Coming soon
 
 ---
 
