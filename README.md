@@ -141,7 +141,7 @@ This repository is **Part 8** of a complete Java SE 17 course. Each part has its
 | 4 | Essential Java Libraries | 🔜 |
 | 5 | Functions & Parameters | 🔜 |
 | 6 | [Object-Oriented Basics](https://github.com/adcwithmounir/Java17_Part_6_Object_Oriented_Basics) | ✅ |
-| 7 | Interfaces & Abstract Types | 🔜 |
+| 7 | [Interfaces & Abstract Types](https://github.com/adcwithmounir/Java17_Part_7_Interfaces_Abstract_Types) | 🔜 |
 | 8 | [Functional Programming](https://github.com/adcwithmounir/Java17_Part_8_Functional_Programming) | ✅ |
 | 9 | Data Structures & Type Safety | 🔜 |
 | 10 | Data Processing Pipelines | 🔜 |
