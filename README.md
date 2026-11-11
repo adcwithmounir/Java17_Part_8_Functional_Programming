@@ -143,7 +143,7 @@ This repository is **Part 8** of a complete Java SE 17 course. Each part has its
 | 6 | [Object-Oriented Basics](https://github.com/adcwithmounir/Java17_Part_6_Object_Oriented_Basics) | ✅ |
 | 7 | [Interfaces & Abstract Types](https://github.com/adcwithmounir/Java17_Part_7_Interfaces_Abstract_Types) | ✅ |
 | 8 | [Functional Programming](https://github.com/adcwithmounir/Java17_Part_8_Functional_Programming) | ✅ |
-| 9 | Data Structures & Type Safety | 🔜 |
+| 9 | [Data Structures & Type Safety](https://github.com/adcwithmounir/Java17_Part_9_Data_Structures_Type_Safety) | 🚧 |
 | 10 | Data Processing Pipelines | 🔜 |
 | 11 | Error Handling & i18n | 🔜 |
 | 12 | Java Module System (JPMS) | 🔜 |
